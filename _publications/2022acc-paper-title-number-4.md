@@ -15,7 +15,7 @@ authors: <b>Kuan-Yu Tseng</b>, Jeff S. Shamma, Geir E. Dullerud
 \
 Extended abstract "GRILC: Gradient-based Reprogrammable Iterative Learning Control for Autonomous Systems",
  published in NeurIPS 2021 Workshop on Deployable Decision Making in Embodied Systems (DDM)
-\[[Paper](http://kuanyut2.github.io/files/NeurIPS_2021_Workshop_on_DDM__revised_cameraReady1_.pdf)\]
+\[[Paper](/files/NeurIPS_2021_Workshop_on_DDM__revised_cameraReady1_.pdf)\]
 
 ## Abstract
 
