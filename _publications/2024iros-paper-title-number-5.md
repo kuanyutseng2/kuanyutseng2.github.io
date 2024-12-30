@@ -6,7 +6,7 @@ excerpt: "<br/><img src='/images/2024iros_small.png'>"
 date: 2024-10-14
 venue: '2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (To appear)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://motion.cs.illinois.edu/papers/IROS2024-Tseng-AdaptiveTrajectoryDatabaseLearning.pdf'
+paperurl: 'https://doi.org/10.1109/IROS58592.2024.10801717'
 authors: <b>Kuan-Yu Tseng</b>, Mengchao Zhang, Kris Hauser, Geir E Dullerud
 
 ---
@@ -19,4 +19,13 @@ This paper presents a novel experience-based technique, called EHGO, for sample-
 ![2024iros](/images/2024iros_small.png)
 
 ## Citation: 
-To appear.
+@INPROCEEDINGS{tseng2024adaptive,
+  author={Tseng, Kuan-Yu and Zhang, Mengchao and Hauser, Kris and Dullerud, Geir E.},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Adaptive Trajectory Database Learning for Nonlinear Control with Hybrid Gradient Optimization}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={11969-11976},
+  keywords={Adaptation models;Databases;System dynamics;Computational modeling;Reinforcement learning;Trajectory;Nonlinear dynamical systems;Automobiles;Optimization;Quadrotors},
+  doi={10.1109/IROS58592.2024.10801717}}
