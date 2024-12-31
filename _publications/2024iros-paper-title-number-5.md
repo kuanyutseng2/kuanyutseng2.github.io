@@ -10,7 +10,7 @@ paperurl: 'https://doi.org/10.1109/IROS58592.2024.10801717'
 authors: <b>Kuan-Yu Tseng</b>, Mengchao Zhang, Kris Hauser, Geir E Dullerud
 
 ---
-\[[Paper](http://motion.cs.illinois.edu/papers/IROS2024-Tseng-AdaptiveTrajectoryDatabaseLearning.pdf)\]
+\[[Paper](https://doi.org/10.1109/IROS58592.2024.10801717)\]
 
 ## Abstract
 
