@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-\[[CV](https://drive.google.com/file/d/1i4fG0f4KWkCBKGtT-oY7sJLzwzwGvxvU/view?usp=sharing)\] (Oct 2024 Updated)
+\[[CV](https://drive.google.com/file/d/1a2H_WTzsuLJ1hylHJFx0Wx1IGJ6oYx0e/view?usp=sharing)\] (Jan 2025 Updated)
