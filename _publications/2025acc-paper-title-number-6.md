@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Gradient-based Policy Optimization for Sample-efficient Policy Learning in Autonomous Systems"
+title: "Hybrid Gradient-Based Policy Optimization for Sample-Efficient Policy Learning in Autonomous Systems"
 collection: publications
 permalink: /publication/2025acc
 excerpt: "<br/><img src='/images/2025acc_small.png'>"
@@ -9,7 +9,9 @@ venue: '2025 American Control Conference (ACC) (To appear)'
 paperurl: 
 authors: <b>Kuan-Yu Tseng</b>, Jeff S. Shamma, Geir E. Dullerud
 
----
+--- 
+\[[Paper](/files/2025_ACC_revised_cameraReady(equ).pdf)\] \
+\[[Video](https://youtu.be/n45mqh19C6M)\]
 
 ## Abstract
 
